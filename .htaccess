@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule 123 https://www.baidu.com/ [P,L]
